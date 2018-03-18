@@ -1,0 +1,2 @@
+C:\Users\kristina\Documents\Unity Projects\Roll A Ball\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\kristina\Documents\Unity Projects\Roll A Ball\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
